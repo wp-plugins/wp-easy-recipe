@@ -116,3 +116,129 @@ ul.method li{margin:0px; padding:0px 0 0 30px; font-size:13px; background:url(..
 .cook_profile p:last-child{margin-bottom:0px;}
 .off-top{margin-top:15px;}
 .wp-easy-recipe-details .hentry {padding:inherit;}
+/* Top 10 Best recipe*/
+
+.ten_best_recipe {float: left;
+    margin: 0;
+    padding: 0;
+    width: 100%;}
+.ten_best_recipe h2.ten_best_heading {
+    background:#666;
+    color: #FFFFFF;
+    font-family: 'SerifaLtBTLight',Raleway,sans-serif;
+    font-size: 23px;
+    font-weight: normal;
+    line-height: 40px;
+    margin: 0;
+    padding: 0 20px 1px;
+}
+
+.ten_best_recipe .ten_best_content {
+       border: 1px solid #d4d3d2;
+    margin: 0;
+    padding:5px 15px 5px;
+}
+
+.ten_best_recipe  .ten_best_block {
+    border: 5px solid #FFFFFF;
+    float: left;
+    margin: 0;
+    padding:0; 
+}
+
+.ten_best_recipe h3 a {
+    color: #434343;
+    font-size: 13px;
+}
+
+/* Recipe of the day */
+.recipe_of_the_day h2.rotd_heading {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 0 none;
+    color: #FFFFFF;
+  /*  font-family: 'SerifaLtBTLight',Raleway,sans-serif;*/
+    font-size:35px !important;
+    font-weight: 600;
+    margin-bottom: 22px;
+    padding: 0;
+    text-shadow: 0 1px 3px #333333;
+    text-transform: uppercase;
+}
+
+.recipe_of_the_day .rotd_thumb  {
+    float: left;
+    width:44%;
+}
+
+.recipe_of_the_day .rotd_thumb img {
+    border: 6px solid #F6F6F6;
+    margin: 0 20px 0 0;
+    padding: 0;
+
+}
+
+.recipe_of_the_day .content  {
+float: right;
+    margin-bottom: 10px;
+    width: 46%;
+}
+.rotd_title a{font-weight:bold; text-transform:uppercase;}
+
+.rotd_content_block {float:left;}
+.recipe_of_the_day .content ul.dotr_cook li {color:#FFFFFF; font-size: 14px;}
+    
+.recipe_of_the_day .content h3.rotd_title {
+    color: #443F3A;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: normal;
+    margin: 0;
+    padding: 0;
+}
+
+.recipe_of_the_day a.continue_reading {
+    color: #d4ff00 !important;
+    font-size: 17px !important;
+    text-align: right;
+    float:right;
+    display:block;
+}
+
+.wp-easy-recipe-details {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 72%;
+}
+#main #secondary {
+    float: right;
+    margin: 0;
+    padding: 0;
+    width: auto !important;
+}
+
+.rightpan {
+    float: right;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+}
+
+.bodypan .row {
+    margin-bottom: 15px !important;
+}
+.row {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+img.size-full, img.size-large, img.header-image, img.wp-post-image {
+    height: auto;
+    max-width: 100%;
+}
+
+.wer_title h1 {font-size: 23px;
+    font-weight: normal;
+    line-height: 40px;
+    padding: 0 20px 1px; background-color: #666; width:72%; color:#fff; text-transform: uppercase;}
