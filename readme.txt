@@ -14,12 +14,12 @@ Add "WP EASY RECIPE" on your website.
 
 Use [wp_recipe_list_page] sortcode for reterive all the recipe pages
 
-=Features=
-*Shortcode [wp_easy_recipe_slider] for recipe feature image slider (responsive)
-*Shortcode [wer_recipe_of_the_day] for get the "Recipe Of The Day"
-*Shortcode [wer_ten_best_recipe] for get the "10 Best Recipe"
-*Option for add .HTML In URL
-*Image Upload Option On Category
+= Features =
+* Shortcode [wp_easy_recipe_slider] for recipe feature image slider (responsive)
+* Shortcode [wer_recipe_of_the_day] for get the "Recipe Of The Day"
+* Shortcode [wer_ten_best_recipe] for get the "10 Best Recipe"
+* Option for add .HTML In URL
+* Image Upload Option On Category
 
 == Installation ==
 

@@ -769,7 +769,14 @@ wp_enqueue_style( 'wp_easy_recipe_style' );
 function get_wer_ten_best_recipe($atts)
 { 
 //define query for get the 10 best category
-query_posts( array('orderby' => 'post_publish', 'order' => 'ASC','post_type'=>'wp_easy_recipe','post_per_page'=>10));
+query_posts( array('orderby' => 'post_publish', 'order' => 'ASC','post_type'=>'wp_easy_recipe','post_per_page'=>10,'meta_query'=> array(
+    array(
+      'key' => 'wp_er_ten_best_recipe',
+      'compare' => '=',
+      'value' =>'Yes',
+      'type' => 'text',
+    )
+  )));
 $wer_content='';
 $wer_content .='<div class="ten_best_recipe"><h2 class="ten_best_heading">10 Best Recipes</h2><div class="ten_best_content clearfix">';
 //define title length
