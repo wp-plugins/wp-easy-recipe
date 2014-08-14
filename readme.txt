@@ -15,11 +15,11 @@ Add "WP EASY RECIPE" on your website.
 Use [wp_recipe_list_page] sortcode for reterive all the recipe pages
 
 = Features =
-* Shortcode [wp_easy_recipe_slider] for recipe feature image slider (responsive)
-* Shortcode [wer_recipe_of_the_day] for get the "Recipe Of The Day"
-* Shortcode [wer_ten_best_recipe] for get the "10 Best Recipe"
-* Option for add .HTML In URL
-* Image Upload Option On Category
+ * Shortcode [wp_easy_recipe_slider] for recipe feature image slider (responsive)
+ * Shortcode [wer_recipe_of_the_day] for get the "Recipe Of The Day"
+ * Shortcode [wer_ten_best_recipe] for get the "10 Best Recipe"
+ * Option for add .HTML In URL
+ * Image Upload Option On Category
 
 == Installation ==
 
@@ -29,13 +29,13 @@ Step 2. Activate the plugin through the Plugins menu in WordPress
 
 == Frequently Asked Questions ==
 
-1.How publish all the recipe post on any spefic page?
+ * How publish all the recipe post on any spefic page?
 
-Answer: Create a new page and add [wp_recipe_list_page] sortcode 
+  Create a new page and add [wp_recipe_list_page] sortcode 
 
-2.How update the social media content on details page?
+ * How update the social media content on details page?
 
-Answer: Find the "WP Easy Recipe" settings from admin ("Settings" >> "WP Easy Recipe") and update the content of social media
+  Find the "WP Easy Recipe" settings from admin ("Settings" >> "WP Easy Recipe") and update the content of social media
 
 
 == Screenshots ==
@@ -47,13 +47,11 @@ Answer: Find the "WP Easy Recipe" settings from admin ("Settings" >> "WP Easy Re
 
 = 1.1 = 
 
-*Added shortcode [wp_easy_recipe_slider] for recipe feature image slider (responsive)
-*Added shortcode [wer_recipe_of_the_day] for get the "Recipe Of The Day"
-*Added shortcode [wer_ten_best_recipe] for get the "10 Best Recipe"
-*Added an option for add .HTML In URL
-* Image Upload Option On Recipe Category
+ * Added shortcode [wp_easy_recipe_slider] for recipe feature image slider (responsive)
+ * Added shortcode [wer_recipe_of_the_day] for get the "Recipe Of The Day"
+ * Added shortcode [wer_ten_best_recipe] for get the "10 Best Recipe"
+ * Added an option for add .HTML In URL
+ * Image Upload Option On Recipe Category
 
 = 1.0 = 
  * First stable release 
-
-
