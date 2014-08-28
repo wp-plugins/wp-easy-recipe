@@ -760,9 +760,7 @@ wp_register_style( 'wp_easy_recipe_style', plugins_url( 'css/wer-style.css',__FI
 wp_enqueue_style( 'wp_easy_recipe_style' );
 }
 
-
 /*
- * 
  * Define function for get 10 Best Recipes
  * 
  * */
