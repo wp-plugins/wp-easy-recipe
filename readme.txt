@@ -3,7 +3,7 @@ Contributors: india-web-developer
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WN785E5V492L4
 Tags: WP Easy Recipe,Easy Recipe,Recipe,Simple Recipe
 Requires at least: 2.8
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 1.1
 
 Add "WP EASY RECIPE" on your website.
