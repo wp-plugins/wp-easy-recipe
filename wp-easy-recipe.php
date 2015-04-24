@@ -3,7 +3,7 @@
 Plugin Name: WP Easy Recipe
 Plugin URI: http://raghunathgurjar.wordpress.com
 Description: "WP Easy Recipe" is a very simple plugins for manage the recipe content on your site. 
-Version: 1.1
+Version: 1.2
 Text Domain: raghunath
 Author: Raghunath Gurjar
 Author URI: http://www.facebook.com/raghunathprasadgurjar
